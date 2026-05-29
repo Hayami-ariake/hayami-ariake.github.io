@@ -9,4 +9,4 @@ This page provides external links to my research-related pages on researchmap.
 [Tips](https://researchmap.jp/hayami_ariake/Tips)
 
 ## Research resources
-[Research resources]8https://researchmap.jp/hayami_ariake/%E8%B3%87%E6%96%99%E5%85%AC%E9%96%8B)
+[Research resources](https://researchmap.jp/hayami_ariake/%E8%B3%87%E6%96%99%E5%85%AC%E9%96%8B)
