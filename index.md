@@ -11,11 +11,11 @@ Researchmap上にある私の研究関係のウェブページです.
 ## 研究情報
 [速水がこれまで行ってきた研究はこちら](https://researchmap.jp/blogs/blog_entries/view/80046/aff5775d080652a99973bdf7a51f5b0b?frame_id=1960326)
 
-## Recommended Books
+## 推薦図書
 [お勧めの図書の紹介はこちら](https://researchmap.jp/blogs/blog_entries/view/80046/44a5adc797654d7d33142b45ea1c01af?frame_id=1960326)
 
 ## Tips
 [研究・教育関係のTipsはこちら](https://researchmap.jp/hayami_ariake/Tips)
 
-## Research resources
+## 研究資料等
 [研究資料はこちら](https://researchmap.jp/hayami_ariake/%E8%B3%87%E6%96%99%E5%85%AC%E9%96%8B)
